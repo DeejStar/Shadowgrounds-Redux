@@ -1,3 +1,9 @@
 [submodule "build-deps/boost"]
 	path = build-deps/boost
 	url = https://github.com/boostorg/boost.git
+[submodule "build-deps/SDL"]
+	path = build-deps/SDL
+	url = https://github.com/spurious/SDL-mirror.git
+[submodule "build-deps/zlib"]
+	path = build-deps/zlib
+	url = https://github.com/madler/zlib.git
